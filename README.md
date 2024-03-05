@@ -26,5 +26,5 @@ This is a small project done in a week to test my game development skills.
 
 ## Getting Started
 
-To try out the game [here]([https://holdfast-census.vercel.app](https://www.roblox.com/games/16144887451/fly-mov)https://www.roblox.com/games/16144887451/fly-mov)
+To try out the game [here](https://www.roblox.com/games/16144887451/fly-mov)
 
