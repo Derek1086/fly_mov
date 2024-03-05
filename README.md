@@ -2,9 +2,7 @@
 
 ## Project Overview
 
-This intense player-versus-player (PvP) game allows you to soar through the skies and unleash powerful laser attacks from your character's eyes. 
-The primary defense mechanism involves a dynamic shield that follows your character, adding an extra layer of strategy to the gameplay. 
-This is a small project done in a week to test my game development skills.
+This intense player-versus-player (PvP) game built with the Roblox Studio game engine using Lua allows you to soar through the skies and unleash powerful laser attacks from your character's eyes. The primary defense mechanism involves a dynamic shield that follows your character, adding an extra layer of strategy to the gameplay. This is a small project done in a week to test my game development skills.
 
 ## Features
 
